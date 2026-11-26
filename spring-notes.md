@@ -1,4 +1,4 @@
-# Spring Framework
+# Spring Reference Material
 
 ## Beginner-Friendly Notes for Java Freshers
 ------------------------------------------------------------------------
