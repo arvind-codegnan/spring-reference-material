@@ -1,6 +1,4 @@
-# Spring Core, Spring MVC and Spring Boot: Interview Notes for Java Freshers
-
-> **Version note (November 2026):** Examples use **Java 21** and **Spring Boot 4.x** (built on Spring Framework 7). Many company projects still run Boot 3.x. The core concepts are the same, and differences are pointed out where they matter.
+# Spring Interview Notes
 
 ## Contents
 
