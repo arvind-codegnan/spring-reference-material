@@ -1,11 +1,6 @@
-# Spring Core, Spring MVC and Spring Boot
+# Spring Framework
 
-## Beginner-Friendly Interview Preparation Notes for Java Freshers
-
-**Audience:** Java freshers and beginners\
-**Purpose:** Learn the fundamentals, understand how a Spring web
-application works, and prepare for entry-level interviews.
-
+## Beginner-Friendly Notes for Java Freshers
 ------------------------------------------------------------------------
 
 ## Table of Contents
@@ -1916,17 +1911,5 @@ words:
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
-
-## Final Interview Tip
-
-Do not memorize annotations alone. For every annotation or concept, be
-prepared to answer:
-
-1.  What does it mean?
-2.  Why is it used?
-3.  Where is it used?
-4.  Can you explain it with a small Java example?
-5.  How does it fit into the overall application flow?
-
 A strong fresher answer is usually a clear explanation followed by a
 small practical example.
